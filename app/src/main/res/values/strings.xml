@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Coffee Ordering App</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="decrement">-</string>
+    <string name="_0">0</string>
+    <string name="increment">+</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="order">ORDER</string>
+    <string name="coffee">coffee o</string>
+    <string name="coffees">coffees o</string>
+    <string name="ordered">rdered</string>
+    <string name="below_zero_cups">You cant have below 0 cups of coffee</string>
+    <string name="price">Price:</string>
+    <string name="coffee_order_for">Coffee order for</string>
+</resources>
